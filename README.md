@@ -1,2 +1,2 @@
-# git-repository
+# first-commit
 first repository
